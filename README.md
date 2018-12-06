@@ -6,7 +6,7 @@
   <table>
    <tbody> 
     <tr>
-     <td><a target="_blank" href="https://github.com/dntzhang"><img width="60px" src="https://avatars2.githubusercontent.com/u/7917954?s=60&amp;v=4" /></a></td>
+     <td><a target="_blank" href="https://www.douban.com/people/lanhui/"><img width="60px" src="https://img3.doubanio.com/icon/u2503813-40.jpg" /></a></td>
      <td><a target="_blank" href="https://github.com/LeeHyungGeun"><img width="60px" src="https://avatars2.githubusercontent.com/u/2471651?s=60&amp;v=4" /></a></td>
      <td><a target="_blank" href="https://github.com/xcatliu"><img width="60px" src="https://avatars1.githubusercontent.com/u/5453359?s=60&amp;v=4" /></a></td>
      <td><a target="_blank" href="https://github.com/yanceyou"><img width="60px" src="https://avatars2.githubusercontent.com/u/16320418?s=60&amp;v=4" /></a></td>
